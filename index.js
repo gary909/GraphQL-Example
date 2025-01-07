@@ -1,3 +1,7 @@
+// A quick test to run a graph ql server
+// start the server with:
+// node index.js
+
 const { ApolloServer, gql } = require("apollo-server");
 
 // Sample data
